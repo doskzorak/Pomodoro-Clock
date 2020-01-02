@@ -1,0 +1,17 @@
+body {
+  background-color: #d2b48c;
+  text-align: center;
+  font-family: "Montserrat";
+}
+
+h2 {
+  display:inline;
+}
+
+.btn-btn-primary {
+  margin: 14px;
+}
+
+#start {
+  margin:14px;
+}
